@@ -1,0 +1,52 @@
+.our-services {
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.template-item {
+    width: 23%;
+    flex-direction: column;
+    padding-top: 100px;
+}
+
+.service-info {
+    line-height: 3;
+}
+
+.bg {
+    background-color: #f3f7ec;
+}
+
+.service-item h3 {
+    font-size: 60px;
+    color: rgba(67, 67, 69, 0.2);
+}
+
+.service-item a {
+    font-size: 22px;
+    font-weight: 300;
+    color: rgba(67, 67, 69, 0.7);
+    transition: 0.5s;
+}
+
+.service-item a:hover {
+    color: #d0af8a;
+}
+
+.service-item p {
+    color: rgba(67, 67, 69, 0.7);
+    line-height: 1.5;
+    font-size: 14px;
+    padding-bottom: 40%;
+}
+
+.wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.service-number {
+    display: flex;
+}

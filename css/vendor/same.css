@@ -1,0 +1,28 @@
+    .container {
+        padding-right: 8%;
+        padding-left: 8%;
+    }
+    
+    .btn {
+        background-color: #d0af8a;
+        color: #fff;
+        width: 120px;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: 0.7s;
+        border-radius: 30%;
+        font-size: 12px;
+        font-weight: bold;
+    }
+    
+    .btn:hover {
+        background-color: rgb(248, 248, 78);
+        color: black;
+        /* transform: */
+    }
+    
+    .section-title {
+        text-align: center;
+    }

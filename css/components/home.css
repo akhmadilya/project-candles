@@ -1,0 +1,31 @@
+ .main-home {
+     display: flex;
+     align-items: flex-end;
+ }
+ 
+ .home-content {
+     background-image: url(//images/widgets/backgroundimg.jpg);
+     background-size: cover;
+     line-height: 2;
+ }
+ 
+ .home-content h3 {
+     color: #d0af8a;
+     font-size: 50px;
+     padding-right: 40%;
+     line-height: 1;
+     font-weight: 300;
+ }
+ 
+ .home-content p {
+     color: #777777;
+     font-size: 18px;
+     margin-left: 40px;
+     padding-right: 50%;
+     padding-top: 50px;
+     padding-bottom: 50px;
+ }
+ 
+ .home-content a {
+     margin-left: 40px;
+ }

@@ -1,0 +1,35 @@
+.customers {
+    background-color: #f3f7ec;
+}
+
+.quotation {
+    background-color: #fff;
+    display: flex;
+}
+
+.paragraph {
+    display: flex;
+    /* align-items: center;
+    justify-content: center; */
+    padding-left: 25px;
+}
+
+.name img {
+    height: 25%;
+    border-radius: 100%;
+}
+
+.customers h4 {
+    font-size: 45px;
+    font-weight: 300;
+    color: #d0af8a;
+}
+
+.customers h3 {
+    color: #777777;
+    font-size: 20px;
+    font-weight: 300;
+    padding-top: 80px;
+    padding-bottom: 30px;
+    margin-top: 80px;
+}
